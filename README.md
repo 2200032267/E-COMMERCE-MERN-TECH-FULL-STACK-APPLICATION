@@ -66,6 +66,22 @@ This eCommerce platform is developed as a full-stack project showcasing the inte
 
 ## 📸 Screenshots
 
-```md
-[Projects Outputs/Folder]
+**Final Outputs*
+[Click Here]()
+
+---
+
+## 👤 Author
+
+**N VIGHNESH**  
+- GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- Email: vighneshnv2@gmail.com  
+---
+## ⭐ Star This Repository
+
+If you find this project useful or interesting, please ⭐ star this repository to support and encourage further development!  
+Your support means a lot! 🙏
+
+---
 
