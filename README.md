@@ -74,9 +74,9 @@ This eCommerce platform is developed as a full-stack project showcasing the inte
 ## 👤 Author
 
 **NEDULLA VIGHNESH**  
-- GitHub: [https://github.com/yourusername](https://github.com/2200032267)  
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Email: vighneshnv2@gmail.com  
+- GitHub: [2200032267](https://github.com/2200032267)  
+- LinkedIn: [N VIGHNESH](https://linkedin.com/in/yourprofile)  
+- Email: [vighneshnv2@gmail.com](vighneshnv2@gmail.com)
 ---
 ## ⭐ Star This Repository
 
