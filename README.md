@@ -66,7 +66,7 @@ This eCommerce platform is developed as a full-stack project showcasing the inte
 
 ## 📸 Screenshots
 
-**Final Outputs*
+**Final Outputs**
 [Click Here]()
 
 ---
