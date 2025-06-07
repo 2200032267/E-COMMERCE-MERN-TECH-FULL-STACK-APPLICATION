@@ -1,4 +1,6 @@
 # 🛍️ Full-Stack eCommerce Website
+---
+## 🚀 Project Overview
 
 A responsive and fully-functional **Full-Stack eCommerce Website** built with modern technologies, featuring brand-based product browsing, user authentication, payment gateway integration, and dynamic cart management.
 
