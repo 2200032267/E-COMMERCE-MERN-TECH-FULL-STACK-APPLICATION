@@ -4,6 +4,8 @@
 
 A responsive and fully-functional **Full-Stack eCommerce Website** built with modern technologies, featuring brand-based product browsing, user authentication, payment gateway integration, and dynamic cart management.
 
+--
+
 ## 🔗 Project Links
 
 - 🔗 **Live Site (Render Deployment):** [https://e-commerce-1-v51p.onrender.com]
